@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-637-be-17-normalize-email-comparisons-consistently",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-637-be-17-normalize-email-comparisons-consistently": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-637-be-17-normalize-email-comparisons-consistently",
+    "origin"
+  ]
+}
